@@ -1,5 +1,5 @@
 require "LearnGem/version"
 
 module LearnGem
-  # Your code goes here...
+	VERSION = "0.1.0"
 end
